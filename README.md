@@ -46,10 +46,10 @@ Software Engineer with 2+ years of experience building robust applications with 
 
 ### Growing Skills
 - ReactJS Development
-- AI & Prompt Engineering
+- AI 
 - Redis & Celery for Task Queues
 - Security Risk Assessment
-- C/C++ Programming
+- Linux & Docker
 
 ## 📫 Connect With Me
 
@@ -59,7 +59,7 @@ Software Engineer with 2+ years of experience building robust applications with 
 ## 📚 Currently Enhancing
 - **Advanced Django Patterns**
 - **ReactJS Integration**
-- **AI and Prompt Engineering**
+- **AI**
 - **System Design Principles**
 - **Security Best Practices**
 
