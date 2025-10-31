@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sina Karamian
+# 👋 Hi there, I'm Sina Karamiyan
 
 **Full Stack Developer | Django Specialist | Software Engineer**
 
