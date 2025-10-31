@@ -33,17 +33,6 @@ Software Engineer with 2+ years of experience building robust applications with 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinakaramian&show_icons=true&theme=radical&hide_border=true" alt="Sina's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinakaramian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinakaramian&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
 ## 🔧 Technical Expertise
 
 ### Strong Skills
@@ -66,7 +55,6 @@ Software Engineer with 2+ years of experience building robust applications with 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinakn78@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-karamian)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 ## 📚 Currently Enhancing
 - **Advanced Django Patterns**
