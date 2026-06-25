@@ -38,7 +38,7 @@ A results-driven developer specializing in the full lifecycle of web projects—
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-### Design & implement
+### Wordpress
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Themes](https://img.shields.io/badge/WordPress%20Themes-7B42BC?style=for-the-badge&logo=wordpress&logoColor=white)
