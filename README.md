@@ -3,10 +3,12 @@
 **Full Stack Developer | Django Specialist | Software Engineer**
 
 ## 👨‍💻 About Me
-As a Software Engineer; I’m a FullStack developer with ability in front-end development and focus on building smart, scalable systems on the back-end specifically in Python-Django.
-I’m a self-driven learner and researcher that turning ideas into working products, improving old code, and helping teams move faster with simple, clear solutions.
+As a Software Engineer; Strong communicator who bridges technical and non-technical stakeholders with clarity. Adaptable and collaborative, thriving in fast-paced teams while owning problems from diagnosis to delivery and a self-driven learner and researcher that turning ideas into working products, improving old code, and helping teams move faster with simple, clear solutions.
 Actively using AI prompt engineering and code-level AI workflows to build smarter development outputs. Exploring LLM-powered assistants, automation, and testing solutions.
 I'm open to freelance collaborations, especially projects that challenge me to learn more, build better, and grow with a team.
+
+## 👨‍💻 Freelancing
+A results-driven developer specializing in the full lifecycle of web projects—from back-end architecture to visibility. Managed end-to-end development for a design agency, building robust CMS solutions using Django and WordPress to ensure seamless client content management. Concurrently, I function as an SEO strategist, implementing technical optimizations that consistently lift domain authority and organic reach. To drive business intelligence, I have built Python-based scraping robots that monitor market trends and competitor movements.
 
 ## 🛠️ Tech Stack
 
@@ -35,6 +37,11 @@ I'm open to freelance collaborations, especially projects that challenge me to l
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### Design & implement
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Themes](https://img.shields.io/badge/WordPress%20Themes-7B42BC?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## 🔧 Technical Expertise
 
