@@ -3,7 +3,10 @@
 **Full Stack Developer | Django Specialist | Software Engineer**
 
 ## 👨‍💻 About Me
-Software Engineer with 2+ years of experience building robust applications with Django and Django REST Framework. Strong background in full-stack development with expertise in Python, JavaScript, and modern web technologies. Passionate about creating effective solutions, collaborative teamwork, and continuous learning in software development.
+As a Software Engineer; I’m a FullStack developer with ability in front-end development and focus on building smart, scalable systems on the back-end specifically in Python-Django.
+I’m a self-driven learner and researcher that turning ideas into working products, improving old code, and helping teams move faster with simple, clear solutions.
+Actively using AI prompt engineering and code-level AI workflows to build smarter development outputs. Exploring LLM-powered assistants, automation, and testing solutions.
+I'm open to freelance collaborations, especially projects that challenge me to learn more, build better, and grow with a team.
 
 ## 🛠️ Tech Stack
 
