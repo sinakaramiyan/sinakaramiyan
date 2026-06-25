@@ -7,7 +7,7 @@ As a Software Engineer; Strong communicator who bridges technical and non-techni
 Actively using AI prompt engineering and code-level AI workflows to build smarter development outputs. Exploring LLM-powered assistants, automation, and testing solutions.
 I'm open to freelance collaborations, especially projects that challenge me to learn more, build better, and grow with a team.
 
-## 👨‍💻 Freelancing
+## 🌐 Freelancing
 A results-driven developer specializing in the full lifecycle of web projects—from back-end architecture to visibility. Managed end-to-end development for a design agency, building robust CMS solutions using Django and WordPress to ensure seamless client content management. Concurrently, I function as an SEO strategist, implementing technical optimizations that consistently lift domain authority and organic reach. To drive business intelligence, I have built Python-based scraping robots that monitor market trends and competitor movements.
 
 ## 🛠️ Tech Stack
