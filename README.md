@@ -103,8 +103,7 @@ Building scalable backend systems, intelligent automation, and clean software ar
 <td width="45%">
 
 <!-- Upload your project screenshot -->
-<img src="./assets/images/elearning-platform.png" alt="E-Learning Platform"/>
-
+<img width="1578" height="893" alt="Screenshot 2026-07-13 174757" src="https://github.com/user-attachments/assets/cd853a1a-abcb-4cb4-9e6e-1e7bd800bb49" />
 </td>
 
 <td width="55%">
