@@ -1,10 +1,9 @@
 # 👋 Hi there, I'm Sina 
 
-**Full Stack Developer | Django Specialist | Software Engineer**
+**Software Engineer | Django Specialist **
 
 ## 👨‍💻 About Me
-As a Software Engineer; Strong communicator who bridges technical and non-technical stakeholders with clarity. Adaptable and collaborative, thriving in fast-paced teams while owning problems from diagnosis to delivery and a self-driven learner and researcher that turning ideas into working products, improving old code, and helping teams move faster with simple, clear solutions.
-Actively using AI prompt engineering and code-level AI workflows to build smarter development outputs. Exploring LLM-powered assistants, automation, and testing solutions.
+Software Engineer with 3+ years of experience; designing and developing reliable and scalable web applications using Python/Django and C#/ASP.NET, with a strong focus on performance, maintainability, and software quality. Takes ownership of software development from problem diagnosis through delivery while leveraging AI-assisted development tools to improve engineering productivity.
 I'm open to freelance collaborations, especially projects that challenge me to learn more, build better, and grow with a team.
 
 ## 🌐 Freelancing
@@ -12,71 +11,78 @@ A results-driven developer specializing in the full lifecycle of web projects—
 
 ## 🛠️ Tech Stack
 
-### Backend & Core Technologies
+### 🚀 Backend Architecture
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4CAF50?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0066CC?style=for-the-badge)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-5C2D91?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF9800?style=for-the-badge)
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![htmx](https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI/UX-8E44AD?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00BCD4?style=for-the-badge)
 
-### Databases
+### ⚙️ Engineering Skills
+![Clean Code](https://img.shields.io/badge/Clean_Code-2E7D32?style=for-the-badge)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-1565C0?style=for-the-badge)
+![Scalability](https://img.shields.io/badge/Scalability-512DA8?style=for-the-badge)
+![Reliability](https://img.shields.io/badge/Reliability-009688?style=for-the-badge)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-546E7A?style=for-the-badge)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-607D8B?style=for-the-badge)
+![Maintainability](https://img.shields.io/badge/Maintainability-43A047?style=for-the-badge)
+![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-D32F2F?style=for-the-badge)
+
+### 🗄️ Data & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-0277BD?style=for-the-badge)
+![Database Indexing](https://img.shields.io/badge/Database_Indexing-00897B?style=for-the-badge)
+![Caching Strategies](https://img.shields.io/badge/Caching_Strategies-FF6F00?style=for-the-badge)
+![Data Consistency](https://img.shields.io/badge/Data_Consistency-6A1B9A?style=for-the-badge)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-00ACC1?style=for-the-badge)
+![Logging](https://img.shields.io/badge/Logging-795548?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-FF5722?style=for-the-badge)
 
-### Wordpress
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+### Wordpress 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white) 
 ![Themes](https://img.shields.io/badge/WordPress%20Themes-7B42BC?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## 🔧 Technical Expertise
+### 🌍 Languages
+![English](https://img.shields.io/badge/English-Intermediate-1E88E5?style=for-the-badge)
 
-### Strong Skills
-- Backend Development with Django & DRF
-- REST API Design & Development
-- Database Design (PostgreSQL, MySQL)
-- Version Control (Git/GitHub)
-- Frontend Development (HTML/CSS/JavaScript)
-- Responsive Web Design
-- UI/UX Implementation
-
-### Growing Skills
-- ReactJS Development
-- AI 
-- Redis & Celery for Task Queues
-- Security Risk Assessment
-- Linux & Docker
 
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinakn78@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-karamian)
-
-## 📚 Currently Enhancing
-- **Advanced Django Patterns**
-- **ReactJS Integration**
-- **AI**
-- **System Design Principles**
-- **Security Best Practices**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinakaramiyan)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinakaramian&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sinakaramiyan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sinakaramian.sinakaramian" alt="Visitors" />
 </p>
 
@@ -84,4 +90,16 @@ A results-driven developer specializing in the full lifecycle of web projects—
   <i>"First, solve the problem. Then, write the code." - John Johnson</i>
 </p>
 
-⚡ **Fun Fact:** I believe in the power of collaborative environments and continuous learning to create impactful software solutions!
+⚡ **Fun Fact:** I believe in the power of collaborative environments and continuous learning to create impactful software solutions!V
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+Building scalable backend systems, intelligent automation, and clean software architecture.
+
+### 👇 Scroll down to explore my projects 👇
+
+⭐ Don't forget to leave a star if you find something useful!
+
+</div>
