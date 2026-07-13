@@ -92,15 +92,11 @@ A results-driven developer specializing in the full lifecycle of web projects—
 
 ⚡ **Fun Fact:** I believe in the power of collaborative environments and continuous learning to create impactful software solutions!V
 
-<div align="center">
+<div>
 
 ## 🚀 Featured Projects
 
 Building scalable backend systems, intelligent automation, and clean software architecture.
-
-<td width="55%">
-<!-- Upload your project screenshot -->
-<img width="1578" height="893" alt="Screenshot 2026-07-13 174757" src="https://github.com/user-attachments/assets/cd853a1a-abcb-4cb4-9e6e-1e7bd800bb49" />
   
 # 🎓 E-Learning & Gamified Platform
 **🏢 MindDev Company**
@@ -119,9 +115,13 @@ A production-ready, scalable e-learning platform designed to deliver interactive
 - 📈 Created progress tracking dashboards
 - 📱 Fully responsive UI across desktop and mobile
 
-### 🛠️ Tech Stack
+<div style="display:flex;gap:20px;align-items:flex-start;">
+  <div style="width:50%;">
+    <img width="100%" height="893" alt="Screenshot 2026-07-13 174757" src="https://github.com/user-attachments/assets/cd853a1a-abcb-4cb4-9e6e-1e7bd800bb49" />
+  </div>
 
-### 🛠️ Tech Stack
+  <div style="width:50%;">
+	### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -141,6 +141,9 @@ A production-ready, scalable e-learning platform designed to deliver interactive
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  </div>
+</div>
+
 > 🔒 **Source code is private due to company confidentiality.**
 
 
