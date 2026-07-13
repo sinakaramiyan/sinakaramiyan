@@ -98,6 +98,53 @@ A results-driven developer specializing in the full lifecycle of web projects—
 
 Building scalable backend systems, intelligent automation, and clean software architecture.
 
+<table>
+<tr>
+<td width="45%">
+
+<!-- Upload your project screenshot -->
+<img src="./assets/images/elearning-platform.png" alt="E-Learning Platform"/>
+
+</td>
+
+<td width="55%">
+
+# 🎓 E-Learning & Gamified Platform
+**🏢 MindDev Company**
+
+A production-ready, scalable e-learning platform designed to deliver interactive online education with gamification, real-time progress tracking, online examinations, and ranking systems.
+
+### ✨ Key Highlights
+
+- 🚀 Served **200+ active users**
+- 🧩 Designed scalable backend architecture using Django
+- 🗄️ Optimized PostgreSQL database schemas and SQL queries
+- ⚡ Reduced page load time by **50%+**
+- 📚 Built complete course management workflows
+- 📝 Implemented online examination system
+- 🏆 Developed gamified league & ranking system
+- 📈 Created progress tracking dashboards
+- 📱 Fully responsive UI across desktop and mobile
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> 🔒 **Source code is private due to company confidentiality.**
+
+</td>
+</tr>
+</table>
+
 ### 👇 Scroll down to explore my projects 👇
 
 ⭐ Don't forget to leave a star if you find something useful!
