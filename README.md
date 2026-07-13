@@ -140,6 +140,5 @@ A production-ready, scalable e-learning platform designed to deliver interactive
 ⭐ Don't forget to leave a star if you find something useful!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinakaramiyan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sinakaramian.sinakaramian" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sinakaramiyan.sinakaramiyan" alt="Visitors" />
 </p>
