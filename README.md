@@ -81,17 +81,6 @@ A results-driven developer specializing in the full lifecycle of web projects—
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinakaramiyan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sinakaramian.sinakaramian" alt="Visitors" />
-</p>
-
-<p align="center"> 
-  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
-</p>
-
-⚡ **Fun Fact:** I believe in the power of collaborative environments and continuous learning to create impactful software solutions!V
-
 <div>
 
 ## 🚀 Featured Projects
@@ -138,9 +127,22 @@ A production-ready, scalable e-learning platform designed to deliver interactive
 
 > 🔒 **Source code is private due to company confidentiality.**
 
+</div>
 
-### 👇 Scroll down to explore my projects 👇
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sinakaramiyan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sinakaramian.sinakaramian" alt="Visitors" />
+</p>
 
-⭐ Don't forget to leave a star if you find something useful!
+<p align="center"> 
+  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+</p>
+
+⚡ **Fun Fact:** I believe in the power of collaborative environments and continuous learning to create impactful software solutions!
+
+<div align="center">
+  ### 👇 Scroll down to explore my projects 👇
+
+  ⭐ Don't forget to leave a star if you find something useful!
 
 </div>
