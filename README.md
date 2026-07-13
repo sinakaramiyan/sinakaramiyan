@@ -4,7 +4,7 @@
 
 # 👋 Hi there, I'm Sina 
 
-**Software Engineer | Django Specialist **
+### Software Engineer | Django Specialist 
 
 ## 👨‍💻 About Me
 Software Engineer with 3+ years of experience; designing and developing reliable and scalable web applications using Python/Django and C#/ASP.NET, with a strong focus on performance, maintainability, and software quality. Takes ownership of software development from problem diagnosis through delivery while leveraging AI-assisted development tools to improve engineering productivity.
@@ -139,6 +139,4 @@ A production-ready, scalable e-learning platform designed to deliver interactive
 ### 👇 Scroll down to explore my projects 👇
 ⭐ Don't forget to leave a star if you find something useful!
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sinakaramiyan.sinakaramiyan" alt="Visitors" />
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sinakaramiyan.sinakaramiyan" alt="Visitors" />
