@@ -98,16 +98,10 @@ A results-driven developer specializing in the full lifecycle of web projects—
 
 Building scalable backend systems, intelligent automation, and clean software architecture.
 
-<table>
-<tr>
-<td width="45%">
-
+<td width="55%">
 <!-- Upload your project screenshot -->
 <img width="1578" height="893" alt="Screenshot 2026-07-13 174757" src="https://github.com/user-attachments/assets/cd853a1a-abcb-4cb4-9e6e-1e7bd800bb49" />
-</td>
-
-<td width="55%">
-
+  
 # 🎓 E-Learning & Gamified Platform
 **🏢 MindDev Company**
 
@@ -118,7 +112,7 @@ A production-ready, scalable e-learning platform designed to deliver interactive
 - 🚀 Served **200+ active users**
 - 🧩 Designed scalable backend architecture using Django
 - 🗄️ Optimized PostgreSQL database schemas and SQL queries
-- ⚡ Reduced page load time by **50%+**
+- ⚡ Reduced page load time by **50%**
 - 📚 Built complete course management workflows
 - 📝 Implemented online examination system
 - 🏆 Developed gamified league & ranking system
@@ -127,22 +121,28 @@ A production-ready, scalable e-learning platform designed to deliver interactive
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![htmx](https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-0277BD?style=for-the-badge)
+![ERD Design](https://img.shields.io/badge/ERD_Design-5E35B1?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-00BCD4?style=for-the-badge)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 > 🔒 **Source code is private due to company confidentiality.**
 
-</td>
-</tr>
-</table>
 
 ### 👇 Scroll down to explore my projects 👇
 
